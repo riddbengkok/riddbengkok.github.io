@@ -2,7 +2,7 @@
   "name": "demo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://riddbengkok.github.io",
+  "homepage": "https://github.com/riddbengkok/riddbengkok.github.io",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
