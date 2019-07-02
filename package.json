@@ -2,7 +2,7 @@
   "name": "demo-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/riddbengkok/riddbengkok.github.io",
+  "homepage": "https://riddbengkok.github.io/opening",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
@@ -16,7 +16,6 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -36,6 +35,4 @@
   "devDependencies": {
     "gh-pages": "^2.0.1"
   }
-
-
 }
